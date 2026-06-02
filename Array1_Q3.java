@@ -1,5 +1,3 @@
-import java.util.Arrays;
-
 public class Array1_Q3 {
     public int findMaxConsecutiveOnes(int[] nums) {
         int counter = 0;
